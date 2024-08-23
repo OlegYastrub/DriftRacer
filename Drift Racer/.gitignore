@@ -1,0 +1,8 @@
+# Unity temporary files
+Temp/
+.plastic/
+Library/
+Logs/
+Obj/
+Build/
+UserSettings/
